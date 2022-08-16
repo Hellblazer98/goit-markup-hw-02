@@ -24,7 +24,7 @@ body {
     text-decoration: none;
 }
 .logo span {
-    color: #2196F3;
+    color: var(--attention-color);
 }
 
 .nav-links {
