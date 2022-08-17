@@ -184,11 +184,13 @@ body {
     color: var(--background-color);
 }
 
+
 .address-links {
     list-style-type: none;
 }
 
 .address-links .location {
+    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
@@ -202,6 +204,7 @@ body {
 }
 
 .address-links .contact {
+    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
